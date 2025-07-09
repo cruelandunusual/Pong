@@ -1,6 +1,0 @@
-Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"W:/dotNet/Monogame/Pong/Content/GameFont.spritefont","W:/dotNet/Monogame/Pong/Content/bin/DesktopGL/GameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2071,37922,0.5868917
-"W:/dotNet/Monogame/Pong/Content/netSegment.png","W:/dotNet/Monogame/Pong/Content/bin/DesktopGL/netSegment.xnb","TextureProcessor","Texture2DContent",3333,597,0.1181463
-"W:/dotNet/Monogame/Pong/Content/paddle.png","W:/dotNet/Monogame/Pong/Content/bin/DesktopGL/paddle.xnb","TextureProcessor","Texture2DContent",7689,6485,0.0167241
-"W:/dotNet/Monogame/Pong/Content/spr_ball_blue.png","W:/dotNet/Monogame/Pong/Content/bin/DesktopGL/spr_ball_blue.xnb","TextureProcessor","Texture2DContent",1782,2021,0.0141307
-"W:/dotNet/Monogame/Pong/Content/spr_gameover.jpg","W:/dotNet/Monogame/Pong/Content/bin/DesktopGL/spr_gameover.xnb","TextureProcessor","Texture2DContent",57040,469561,0.0256843
