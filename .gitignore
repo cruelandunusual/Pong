@@ -1,0 +1,8 @@
+x64/
+**/x64/
+Thumbs.db
+.vs/
+**/.vs/
+**/bin/
+**/obj/
+
