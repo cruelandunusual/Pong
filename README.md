@@ -1,5 +1,21 @@
 # Pong
-## Implementation of Pong using C# and the MonoGame .NET framework  
+<div align="left">
+<img style="vertical-align: middle; height: 20px; width: 59px;" src="https://img.shields.io/badge/-Linux-grey?logo=linux" />
+<img style="vertical-align: middle; height: 20px; width: 59px;" src="https://img.shields.io/badge/-macOS-black?logo=apple" />
+<img style="vertical-align: middle; height: 20px; width: 59px;" src="https://img.shields.io/badge/-Windows-red" />
+<img width="32" height="32" style="vertical-align: middle; height: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img width="32" height="32" style="vertical-align: middle; height: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img width="32" height="32" style="vertical-align: middle; height: 32px;" src=".assets/MonoGame_icon.png" />
+</div>
+
+## An implementation of Pong using C# and the MonoGame .NET framework  
 
 ![Pong screenshot](.github_content/pong_screenshot.jpg)  
+
+The classic arcade game Pong written in C# and the MonoGame framework, which provides the game runtime.
+
+## Compilation
+
+Given its history and inheritance from Windows-only XNA, MonoGame is probably still easier to build on Windows than other platforms.  
+You'll need the MonoGame SDK and (preferably) Visual Studio to compile the source.  
 
