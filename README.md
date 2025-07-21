@@ -11,7 +11,7 @@
 
 ## An implementation of Pong using C# and the MonoGame .NET framework  
 
-![Pong screenshot](.github_content/pong_screenshot2.jpg)  
+![Pong screenshot](.github_content/pong_capture.gif)  
 
 The classic arcade game Pong written in C# and the MonoGame framework, which provides the game runtime.
 
