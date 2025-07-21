@@ -1,3 +1,6 @@
+# Pong class diagram
+## A visualisation of the relationships between the classes
+
 ```mermaid
 
 classDiagram
@@ -98,4 +101,12 @@ classDiagram
     Paddle --> InputHelper : uses
     Paddle --> Ball : AI uses
     Ball --> Paddle : interacts
+
+    style InputHelper fill:#b0b,stroke:#c9c,stroke-width:2px
+    style Player fill:#15d,stroke:#c9c,stroke-width:2px;
+    style Ball fill:#15d,stroke:#c9c,stroke-width:2px;
+    style Paddle fill:#10a,stroke:#c9c,stroke-width:2px;
+    style GameWorld fill:#370,stroke:#c9c,stroke-width:2px;
+
+
 ```
