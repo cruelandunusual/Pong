@@ -3,9 +3,10 @@
 <img style="vertical-align: middle; height: 20px; width: 59px;" src="https://img.shields.io/badge/-Linux-grey?logo=linux" />
 <img style="vertical-align: middle; height: 20px; width: 59px;" src="https://img.shields.io/badge/-macOS-black?logo=apple" />
 <img style="vertical-align: middle; height: 20px; width: 59px;" src="https://img.shields.io/badge/-Windows-red" />
-<img width="32" height="32" style="vertical-align: middle; height: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img width="32" height="32" style="vertical-align: middle; height: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<img width="32" height="32" style="vertical-align: middle; height: 32px;" src=".assets/MonoGame_icon.png" />
+<br><br>
+<img style="vertical-align: middle; height: 40px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img style="vertical-align: middle; height: 40px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img style="vertical-align: middle; height: 40px; width: 40px;" src=".assets/MonoGame_icon.png" />
 </div>
 
 ## An implementation of Pong using C# and the MonoGame .NET framework  
@@ -19,3 +20,4 @@ The classic arcade game Pong written in C# and the MonoGame framework, which pro
 Given its history and inheritance from Windows-only XNA, MonoGame is probably still easier to build on Windows than other platforms.  
 You'll need the MonoGame SDK and (preferably) Visual Studio to compile the source.  
 
+The [class diagram](DIAGRAM.md) shows the relationships between the classes.  
