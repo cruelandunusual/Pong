@@ -9,7 +9,7 @@
 <img style="vertical-align: middle; height: 40px; width: 40px;" src=".github_content/MonoGame_icon.png" />
 </div>
 
-## An implementation of Pong using C# and the MonoGame .NET framework  
+## An implementation of Pong using C# and the .NET MonoGame framework  
 
 ![Pong screenshot](.github_content/pong_capture.gif)  
 
