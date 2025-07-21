@@ -25,7 +25,7 @@ namespace Pong.src
 
         public Ball(ContentManager Content)
         {
-            ball = Content.Load<Texture2D>("spr_ball_blue");
+            ball = Content.Load<Texture2D>("spr_ball_white_square");
             ballStartPosition = new Vector2(PongGame.WindowBounds.X / 2, 20.0f);
             INITVEL = new Vector2(0.5f, 0.3f);
             ballLocation = ballStartPosition;
