@@ -6,12 +6,12 @@
 <br><br>
 <img style="vertical-align: middle; height: 40px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img style="vertical-align: middle; height: 40px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<img style="vertical-align: middle; height: 40px; width: 40px;" src=".assets/MonoGame_icon.png" />
+<img style="vertical-align: middle; height: 40px; width: 40px;" src=".github_content/MonoGame_icon.png" />
 </div>
 
 ## An implementation of Pong using C# and the MonoGame .NET framework  
 
-![Pong screenshot](.github_content/pong_screenshot.jpg)  
+![Pong screenshot](.github_content/pong_screenshot2.jpg)  
 
 The classic arcade game Pong written in C# and the MonoGame framework, which provides the game runtime.
 
