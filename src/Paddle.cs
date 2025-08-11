@@ -11,6 +11,8 @@ using Microsoft.Xna.Framework.Media;
 
 namespace Pong.src
 {
+
+
     class Paddle
     {
         Texture2D paddle;

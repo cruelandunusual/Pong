@@ -12,6 +12,8 @@ using Microsoft.Xna.Framework.Media;
 
 namespace Pong.src
 {
+
+    /* Keeps track of a game's player object */
     class Player
     {
 

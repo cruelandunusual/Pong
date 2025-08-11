@@ -23,6 +23,7 @@ namespace Pong.src
         Vector2 MAXSPEED;
         Vector2 INITVEL;
 
+        /* Loads the sprite texture */
         public Ball(ContentManager Content)
         {
             ball = Content.Load<Texture2D>("spr_ball_white_square");

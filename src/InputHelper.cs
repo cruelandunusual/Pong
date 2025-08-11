@@ -9,6 +9,9 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Content;
 
 
+/* Utility class for dealing with player input.
+ * It keeps the current state of the Mouse and Keyboard.
+ */
 class InputHelper
 {
     MouseState currentMouseState, previousMouseState;

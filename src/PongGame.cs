@@ -16,10 +16,14 @@ namespace Pong.src
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
+        
         InputHelper inputHelper;
+        // gameworld keeps the state of the game
         static GameWorld gameWorld;
-        static Point windowBounds;
-        static Random random;
+
+        // utility member variables:
+        static Point windowBounds; // stores the screen size
+        static Random random; // used by AI player
 
 
         static void Main()

@@ -9,6 +9,10 @@ using Microsoft.Xna.Framework.Content;
 
 namespace Pong.src
 {
+
+    /* GameWorld keeps the state of the game
+     * 
+     */
     class GameWorld
     {
 
